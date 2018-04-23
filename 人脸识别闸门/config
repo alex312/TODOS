@@ -1,0 +1,6 @@
+[gitlab]
+group=
+projects=
+
+[win-pyenv]
+local=D:\pyenv

@@ -1,0 +1,6 @@
+[gitlab]
+group=http://109.52.36.26:20080/dev-tools
+projects=win-pyenv
+
+[win-pyenv]
+local=D:\pyenv
