@@ -50,3 +50,9 @@ Todo:
       ☐ Plan. 交易查询模块各功能
       ☐ Plan. 状态监视模块各功能
       ☐ Plan. 界面上的其他功能
+  
+  ☐ Exec. 测试环境搭建
+    ☐ Plan. 使用docker搭建应用服务器测试环境
+      ☐ Plan. 尝试docker容器的硬盘中增加D盘和E盘两个分区
+      ☐ Plan. 尝试映射宿主目录到docker容器中的应用程序
+      ☐ Plan. 尝试docker容器中安装服务
