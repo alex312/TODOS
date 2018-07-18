@@ -1,0 +1,6 @@
+[gitlab]
+#group=http://109.52.36.26:20080/qdl3qr
+#projects=paras,message,
+
+[paras]
+#local=E:\afc_code\QDL3\para
