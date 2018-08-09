@@ -1,0 +1,12 @@
+TODO:
+    ☐ 使用windowsservercore作为基础镜像，搭建青岛3号线的服务器环境和镜像
+        ☐ Exec. 下载支持中文的windowsservercore镜像，并实验是否可以将容器中cmd的codepage修改为936。
+        ☐ Plan. MSG服务无法启动。体统日志中记录：加载的Oracle.DataAccess.dll格式不正确。
+        ☐ Plan. 实验其他服务是否能够运行
+            ☐ 交易数据服务
+            ☐ 参数服务
+            ☐ 收集事件打包/解析服务
+            ☐ 分钟汇总服务
+            ☐ 日终服务
+        ☐ 完善Dockerfile。
+        ☐ 根据需求自动生成dockerfile，并制作镜像。
