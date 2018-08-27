@@ -14,9 +14,16 @@ TODO:
     ☐ Exec. 模拟器管理系统设计和开发
         ✔ Done. 模拟器管理系统架构 @done(18-08-06 18:03)
         ✔ Done. 模拟器配置数据定义 @done(18-08-08 18:04)
-        ☐ Exec. 研究.NetCore
-        ☐ Plan. 简单实现管理系统对于模拟器的创建和删除功能（数据层面，不真的操作docker容器）
-        ☐ Plan. 研究docker API。
+        ✔ Done. 研究.NetCore @done(18-08-16 14:58)
+        ✔ Done. 简单实现管理系统对于模拟器的创建（数据层面，不真的操作docker容器） @done(18-08-27 18:20)
+        ✔ Done. 删除模拟器功能（数据层面，不真的操作docker容器） @done(18-08-27 18:21)
+        ✔ Done. 研究docker API。 @done(18-08-21 15:21) 
+        ✔ Done. 完善模拟器的创建删除功能(操作docker容器) @done(18-08-27 18:21)
+        ☐ Exec. 尝试将模拟平台核心代码编译成.Net Framework 4.5或者以上版本
+        ☐ Exec. 开发一个模拟器的demo，并创建它的容器镜像
+        ☐ Exec. 使用.Net Framework 4.5 开发界面
         ☐ Plan. 实现模拟器的初始化和重新初始化(操作Docker容器)
-        ☐ Plan. 完善模拟器的创建和删除功能(操作docker容器)
-        
+        ☐ Plan. 完成虚拟网络的管理功能。虚拟网络的管理功能放到DockerProxy模块中
+        ☐ Plan. 完善模拟器配置数据。
+            ☐ Plan. 约定模拟器中参数文件、交易文件、日志文件存储路径
+            ☐ Plan. 指定模拟器中存储参数/交易/日志的目录。
